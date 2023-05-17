@@ -222,7 +222,7 @@ body {
 
 
 
-.benefits-item-icon {}
+/* .benefits-item-icon {} */
 
 
 
@@ -350,7 +350,7 @@ body {
   gap: 24px;
 }
 
-.team-socials-item {}
+/* .team-socials-item {} */
 
 .team-social-link {
   display: flex;
