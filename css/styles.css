@@ -476,7 +476,7 @@ body {
 
 .footer-social-link:hover,
 .footer-social-link:focus {
-  background-color: var(--Pressed-State);
+  background-color: #31d0aa;
 }
 
 .footer-logo {
