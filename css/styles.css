@@ -162,6 +162,7 @@ body {
 }
 
 .hero {
+  margin: 0 auto;
   max-width: 1440px;
   background-color: var(--Dark);
   padding-top: 188px;
@@ -364,7 +365,7 @@ body {
 
 .team-social-link:hover,
 .team-social-link:focus {
-  color: var(--Pressed-State);
+  background-color: var(--Pressed-State);
 }
 
 .team-social-icon {
