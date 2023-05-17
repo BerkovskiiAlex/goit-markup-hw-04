@@ -434,6 +434,24 @@ body {
 /* ----------------footer------------ */
 
 
+.footer-container {
+  display: flex;
+  align-items: baseline;
+  gap: 120px;
+}
+
+.footer-logo-container {}
+
+.footer-container-social {}
+
+.footer-container-social-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  margin-bottom: 16px;
+}
 
 .footer-logo {
   color: var(--Primary-Brand);
