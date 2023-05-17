@@ -437,10 +437,12 @@ body {
 .footer-container {
   display: flex;
   align-items: baseline;
-  gap: 120px;
+
 }
 
-.footer-logo-container {}
+.footer-logo-container {
+  margin-right: 120px;
+}
 
 .footer-container-social {}
 
