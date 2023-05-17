@@ -416,13 +416,12 @@ body {
 }
 
 .customers-item:hover,
-.customers-item:focus {
-  color: var(--Pressed-State);
-}
+.customers-item:focus {}
 
 .customers-link:hover,
 .customers-link:focus {
   border-color: var(--Pressed-State);
+  color: var(--Pressed-State);
 }
 
 .customers-link-icon {
